@@ -1,0 +1,22 @@
+[
+    {
+        "NameOfTheHospital": "MEDICAL_COLLEGE",
+        "PatientCount": "750",
+        "HospitalLocation": "Delhi"
+    },
+    {
+        "NameOfTheHospital": "GOVT_HOSPITAL",
+        "PatientCount": "500",
+        "HospitalLocation": "Trivandrum"
+    },
+    {
+        "NameOfTheHospital": "DISPENCARY",
+        "PatientCount": "200",
+        "HospitalLocation": "Kannur"
+    },
+    {
+        "NameOfTheHospital": "DENTAL_CLINIC",
+        "PatientCount": "2000",
+        "HospitalLocation": "Karnataka"
+    }
+]
